@@ -1,1 +1,1 @@
-# Hand_written_digit_classification using pyhton keras
+# Hand_written_digit_classification using python keras
